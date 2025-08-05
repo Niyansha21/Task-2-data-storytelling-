@@ -24,7 +24,7 @@ This is a Power BI dashboard created using the **Superstore Sales Dataset**, foc
 - 🧭 Added a **slicer** to allow filtering of visuals by **State**
 - 🧾 Used **tables and card visuals** to present key KPIs and data in tabular format
 - 🧹 Polished visuals for clean storytelling and intuitive user interaction
-- 📂 Refer to the [GitHub repository](#) for the final `.pbix` file
+- 📂 Refer to the [GitHub repository](#) for the final `.pbix` file and pdf.
 
 ---
 
